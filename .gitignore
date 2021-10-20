@@ -1,0 +1,4 @@
+/target
+/src/database/logs/*
+/src/database/keys/*
+Cargo.lock
